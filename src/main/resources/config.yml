@@ -1,0 +1,23 @@
+selection:
+  group: default
+  gamemode: SURVIVAL
+restore:
+  ender-chest: true
+  inventory: true
+  stats:
+    can-fly: true
+    display-name: false
+    exhaustion: true
+    exp: true
+    food: true
+    flying: true
+    gamemode: false
+    max-health: true
+    health: true
+    level: true
+    potion-effects: true
+    saturation: true
+    fall-distance: true
+    fire-ticks: true
+    max-air: true
+    remaining-air: true

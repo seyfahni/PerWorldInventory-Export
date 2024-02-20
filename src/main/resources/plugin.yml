@@ -1,0 +1,7 @@
+name: PerWorldInventoryFix
+version: ${version}
+main: ${mainClass}
+author: seyfahni
+description: ${description}
+website: ${url}
+load: POSTWORLD
